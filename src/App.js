@@ -3,7 +3,7 @@ import React from 'react'
 function App() {
   return (
     <div>
-      <h1>hi main branch</h1>
+      <h1>hi 1st branch</h1>
       
     </div>
   )
